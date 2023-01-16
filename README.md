@@ -1,4 +1,5 @@
 # React Weather App
+![Ekran görüntüsü_20230117_005721](https://user-images.githubusercontent.com/20613572/212776669-50f15961-ccad-4915-9a90-210a275b988f.png)
 **Demo Linki** **[Weather App ](https://hikaweatherapp.netlify.app/)**
 
 ---
