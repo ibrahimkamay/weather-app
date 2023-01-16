@@ -12,5 +12,6 @@
 
 ---
 ### Özellikler
+---
 1. Dropdown aracılığıyla listelenen şehirleri seçerek haftalık olarak hava durumuna erişmeniz mümkün.
 2. Google hava durumuna benzeri modern ve sade tasarım.
